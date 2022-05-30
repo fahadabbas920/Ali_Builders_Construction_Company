@@ -23,7 +23,7 @@ body{
 .navbar-container{
     display: flex;
     justify-content: space-evenly;
-    height: 10vh;
+    height: 10%;
     align-items: center;
     background-color: rgba(16, 23, 121, 0.562);
 }
