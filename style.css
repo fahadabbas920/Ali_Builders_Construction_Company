@@ -1,6 +1,6 @@
 @font-face{
     font-family: myFont;
-    src: url(/fonts/montserrat/Montserrat-Regular.ttf);
+    src: url(fonts/montserrat/Montserrat-Regular.ttf);
 }
 *{
     margin: 0;
@@ -9,7 +9,7 @@
     font-family: myFont;
 }
 body{
-    background-image: url('/images/background-2.jpg');
+    background-image: url('images/background-2.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
